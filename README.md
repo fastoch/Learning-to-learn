@@ -20,7 +20,10 @@
 
 Aiming at small progress every day is better than trying to understand as much as possible as fast as possible.  
 It's like trying to grow big muscles in a few weeks by lifting heavy weights every day until exhaustion.  
-Your body needs time to rest and time to grow muscle. If you don't take your time you will get injured and fail.  
+Your body needs time to rest, and time to grow muscle. If you try too hard and don't rest enough, you'll fail.  
 
+Alan Weiss: "Improve by 1% a day, and in 70 days you're twice as good."  
+
+## Failures don't count
 
 
