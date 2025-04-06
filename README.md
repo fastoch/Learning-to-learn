@@ -23,6 +23,7 @@ Your body needs time to rest, and time to grow muscle. If you try too hard and d
 
 Alan Weiss: "Improve by 1% a day, and in 70 days you're twice as good."  
 
-## Framing
+## The Pareto principle
 
+The Pareto principle is also known as the 80/20 rule.  
 
