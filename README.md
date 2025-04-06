@@ -8,15 +8,6 @@
 
 ---
 
-# Method of Loci
-
-This method is a mnemonic device adopted in ancient Rome.  
-resource = https://deck.of.cards/  
-
-
-
----
-
 # The Principles
 
 
