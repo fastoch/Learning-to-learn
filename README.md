@@ -14,7 +14,6 @@
 - learn because you like that
 - success comes with time and effort
 - learning rhymes with failing, everyone sucks at first
-- Compound Learning
 
 ## Compound Learning
 
@@ -24,6 +23,6 @@ Your body needs time to rest, and time to grow muscle. If you try too hard and d
 
 Alan Weiss: "Improve by 1% a day, and in 70 days you're twice as good."  
 
-## Failures don't count
+## Framing
 
 
