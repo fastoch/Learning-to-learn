@@ -26,4 +26,28 @@ Alan Weiss: "Improve by 1% a day, and in 70 days you're twice as good."
 ## The Pareto principle
 
 The Pareto principle is also known as the 80/20 rule.  
+It's the idea that roughly 80% of the results usually come from 20% of the inputs.  
+It's about reducing the 100% of something down to the core 20% that allow us to understand most of it.  
+
+To master the art of coding, we only need to focus on the skills that truly matter.  
+
+## Skill Stacking
+
+
+
+---
+
+# The Lies
+
+---
+
+# The Pillars 
+
+---
+
+# The Science 
+
+---
+
+# The Techniques
 
