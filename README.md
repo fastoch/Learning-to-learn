@@ -33,7 +33,17 @@ To master the art of coding, we only need to focus on the skills that truly matt
 
 ## Skill Stacking
 
+To become a successful web dev, you need to:
+- speak english
+- be good at programming
+- keep up with new technologies
+- learn from other developers
+- understand the customer needs
 
+All of these skills stack up to make you more valuable than someone who masters only one or two of them.  
+Maybe you're not the best programmer in the world, but your skill stack is what makes you very special.  
+
+The art of skill stacking is to pick up skills that combine well, that get you closer to your professional objectives.
 
 ---
 
