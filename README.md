@@ -1,7 +1,6 @@
 # Efficient Learning - ZTM Blueprint
 
 - The Principles
-- The Lies
 - The Pillars
 - The Science
 - The Techniques
@@ -47,13 +46,9 @@ The art of skill stacking is to pick up skills that combine well, that get you c
 
 ---
 
-# The Lies
-
-
-
----
-
 # The Pillars 
+
+
 
 ---
 
