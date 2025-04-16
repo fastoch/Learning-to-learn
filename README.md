@@ -63,7 +63,9 @@ Stop using fancy technical words, and try using simple terms instead, to prevent
 
 ## Trunk Based Knowledge
 
-
+Strong fundamentals are very important, those are the roots required to build your knowledge from.  
+The trunk represents intermediate concepts in this analogy.  
+Don't learn advanced concepts (leaves) before you master the fundamentals and intermediate concepts, or the tree will die.  
 
 ---
 
