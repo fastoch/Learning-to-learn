@@ -50,6 +50,19 @@ The art of skill stacking is to pick up skills that combine well, that get you c
 
 ## Everything is a game
 
+- Try
+- Fail
+- Learn from your mistakes
+- Try again by applying what you've learnt
+- Repeat until you've learnt enough
+
+## Feynman Technique
+
+To be sure you master a topic, try and teach it to someone else, ideally someone who doesn't know a damn thing about it, like a child.  
+Stop using fancy technical words, and try using simple terms instead, to prevent yourself from hiding behind concepts you don't really understand.  
+
+## Trunk Based Knowledge
+
 
 
 ---
