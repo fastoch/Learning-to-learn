@@ -69,11 +69,13 @@ Don't learn advanced or expiring concepts (the leaves) before you master the fun
 
 ## Efficiency trumps grit
 
-
+The title says enough.
 
 ---
 
 # The Science 
+
+
 
 ---
 
