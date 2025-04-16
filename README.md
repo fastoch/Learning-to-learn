@@ -63,9 +63,13 @@ Stop using fancy technical words, and try using simple terms instead, to prevent
 
 ## Trunk Based Knowledge
 
-Strong fundamentals are very important, those are the roots required to build your knowledge from.  
-The trunk represents intermediate concepts in this analogy.  
-Don't learn advanced concepts (leaves) before you master the fundamentals and intermediate concepts, or the tree will die.  
+Strong **fundamentals** are very important, those are the **roots** required to build new knowledge from.  
+The trunk represents intermediate concepts in this analogy, or concepts that allow us to tie the fundamentals to more advanced notions.  
+Don't learn advanced or expiring concepts (the leaves) before you master the fundamentals and intermediate concepts, or the tree won't last.  
+
+## Efficiency trumps grit
+
+
 
 ---
 
