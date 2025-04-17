@@ -69,7 +69,8 @@ Don't learn advanced or expiring concepts (the leaves) before you master the fun
 
 ## Efficiency trumps grit
 
-The title says enough.
+It's not about who works the hardest, or who puts in the most time.  
+It's about who uses time efficiently, who uses the right strategies to grow in the most optimal way.
 
 ---
 
