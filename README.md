@@ -79,7 +79,7 @@ It's about who uses time efficiently, who uses the right strategies to grow in t
 ## Focus vs Diffuse Mode
 
 The most efficient way of learning is by going back and forth between these 2 modes.  
-Our brains need us to focus then rest, focus then rest, ...  
+Our brain needs us to focus then rest, focus then rest, ...  
 Avoid multitasking.
 
 ## The science of sleep
