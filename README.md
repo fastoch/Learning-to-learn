@@ -88,7 +88,18 @@ Nothing new here.
 
 ## Brain training
 
+- Keep learning new things every day to make your brain create new neurons and new neural connections
+- Have some physical exercise because it helps your brain being in diffuse mode
 
+## The science of feedback
+
+Basically, positive feedback is important for beginners to progress.  
+For experts, negative feedback is what they need to keep getting better.  
+In both cases, feedback is crucial for learning more efficiently, preferably immediate feedback.
+
+## Procrastination
+
+@40%
 
 ---
 
