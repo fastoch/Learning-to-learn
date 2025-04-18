@@ -99,7 +99,11 @@ In both cases, feedback is crucial for learning more efficiently, preferably imm
 
 ## Procrastination
 
-@40%
+https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it 
+
+## Short and Long term memory
+
+
 
 ---
 
