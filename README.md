@@ -106,9 +106,17 @@ https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feel
 ### Long term memory
 
 Long term memory is formed by practising and repeating.  
-Long term memory is extremely important when it comes to knowledge and learning, because that's where you put fundamental concepts and principles that guide your life.  
+Long term memory is extremely important when it comes to knowledge and learning, because that's where you store fundamental concepts and principles that guide your life.  
 
 ### Short term memory
+
+How do we build this long term memory in the first place?  
+We need to start off with short term memory, which is also called "working memory".  
+
+To move knowledge from short term memory to long term memory, we need to use "**spaced repetition**".  
+Doing something 20 times in one day is far less efficient than doing the same thing one time over 20 days.  
+
+
 
 ---
 
