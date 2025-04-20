@@ -149,7 +149,10 @@ Like money, or any kind of external reward.
 
 ## Goals
 
+Eliminate the fear of failure by taking small steps.   
+"Kaizen" is a japanese word for continuous small incremental improvements.  
 
+A famous book about this idea of compound learning = "Atomic Habits"
 
 ---
 
