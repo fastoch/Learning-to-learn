@@ -116,7 +116,23 @@ We need to start off with short term memory, which is also called "working memor
 To move knowledge from short term memory to long term memory, we need to use "**spaced repetition**".  
 Doing something 20 times in one day is far less efficient than doing the same thing one time over 20 days.  
 
+We know that short term memory is for something that you're currently working on.  
+And you can bring long term memory into your working memory in order to solve problems, consolidating your long term memory.  
 
+To improve knowledge acquisition and retention, new information must be consolidated and securely stored in our long term memory.  
+
+**NOTE**:  
+In this course, we can think of Short Term Memory and Working Memory as the same thing.  
+However for those interested in the details you can read about the specific differences here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2657600/
+
+## Active vs Passive Learning
+
+Obviously, active learning is what you need to do in order to become an efficient learner.  
+You need to practise, to take notes, to try and solve problems on your own.  
+
+Trying to recall what you've learnt before actually checking if you remembered right is also very important.  
+
+**Practising** and **Recalling** are the 2 most efficient ways of learning something. 
 
 ---
 
