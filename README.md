@@ -154,6 +154,10 @@ Eliminate the fear of failure by taking small steps.
 
 A famous book about this idea of compound learning = "Atomic Habits"
 
+## Chunking
+
+
+
 ---
 
 # The Techniques
