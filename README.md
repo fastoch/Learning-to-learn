@@ -132,9 +132,22 @@ You need to practise, to take notes, to try and solve problems on your own.
 
 Trying to recall what you've learnt before actually checking if you remembered right is also very important.  
 
-**Practising** and **Recalling** are the 2 most efficient ways of learning something. 
+**Practising** and **Recalling** are the 2 most efficient ways of learning. 
 
 ## The Science of Motivation
+
+### Intrinsic motivation
+
+We want to progress so we can:
+- gain autonomy
+- reach mastery
+- have a purpose
+
+### Extrinsic motivation
+
+Like money, or any kind of external reward.  
+
+## Goals
 
 
 
