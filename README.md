@@ -156,7 +156,8 @@ A famous book about this idea of compound learning = "Atomic Habits"
 
 ## Chunking
 
-
+Breaking things down into multiple chunks is sometimes called bottom-up learning.  
+We combine all these chunks of knowledge 
 
 ---
 
