@@ -156,8 +156,10 @@ A famous book about this idea of compound learning = "Atomic Habits"
 
 ## Chunking
 
-Breaking things down into multiple chunks is sometimes called bottom-up learning.  
-We combine all these chunks of knowledge 
+Breaking things down into different chunks and understanding the relationship between them is sometimes called **"bottom-up learning"**.  
+We combine mutliple chunks of knowledge and we connect the dots between these chunks, creating a **mind map** of a specific topic.  
+
+What we also need is something called **"top-down learning"**, which consists in starting off with an overview, a big picture, and then looking into details.  
 
 ---
 
