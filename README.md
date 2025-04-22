@@ -152,14 +152,17 @@ Like money, or any kind of external reward.
 Eliminate the fear of failure by taking small steps.   
 "Kaizen" is a japanese word for continuous small incremental improvements.  
 
-A famous book about this idea of compound learning = "Atomic Habits"
+A famous book about this idea of **compound learning** = "Atomic Habits"
 
 ## Chunking
 
-Breaking things down into different chunks and understanding the relationship between them is sometimes called **"bottom-up learning"**.  
-We combine mutliple chunks of knowledge and we connect the dots between these chunks, creating a **mind map** of a specific topic.  
+Breaking things down into different chunks is sometimes called **"bottom-up learning"**.  
+What we also need is something called **"top-down learning"**, which consists in connecting the dots between these chunks.  
+By combining bottom-up learning with top-down learnint, we can create a **mind map** of the specific topic we're studying.  
 
-What we also need is something called **"top-down learning"**, which consists in starting off with an overview, a big picture, and then looking into details.  
+## Deliberate Practice
+
+
 
 ---
 
