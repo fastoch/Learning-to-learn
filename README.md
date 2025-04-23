@@ -162,6 +162,21 @@ By combining bottom-up learning with top-down learnint, we can create a **mind m
 
 ## Deliberate Practice
 
+You start to learn a topic, and initially you make rapid progress.  
+Then eventually you hit what is called a "perceived limit", where you start to plateau.  
+When you reach this point where you don't see yourself improving anymore, that's where you need deliberate practice.  
+You need to practice and practice again until you break through that limit.  
+
+In order to have deliberate practice, we need:
+- specific goals
+- intense focus
+- immediate feedback
+- that frequent discomfort from being at the edge of our abilities
+
+Deliberate practice demands near maximal effort, which is generally not enjoyable.  
+
+## Spaced Repetition
+
 
 
 ---
