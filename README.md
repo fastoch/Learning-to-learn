@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint
+# Efficient Learning - ZTM Blueprint (55%)
 
 - The Principles
 - The 4 Pillars
