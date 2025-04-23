@@ -177,6 +177,11 @@ Deliberate practice demands near maximal effort, which is generally not enjoyabl
 
 ## Spaced Repetition
 
+Cramming is not a good strategy, but repeating things over a long period of time is really efficient.  
+It helps you build those neural connections which engrave your knowledge in your long term memory.
+
+## Habits as Energy Savers
+
 
 
 ---
