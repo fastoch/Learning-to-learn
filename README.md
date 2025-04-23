@@ -182,6 +182,10 @@ It helps you build those neural connections which engrave your knowledge in your
 
 ## Habits as Energy Savers
 
+https://ncase.me/remember/
+
+## Be adventurous
+
 
 
 ---
