@@ -184,6 +184,15 @@ It helps you build those neural connections which engrave your knowledge in your
 
 https://ncase.me/remember/
 
+- try and memorize 5 or 10 cards on the first day
+- then test yourself on the next day and move cards to level 2 if you succeed
+- test yourself again 2 days later on all cards and if you fail, cards go back to level 1
+- test yourself 4 days after that, then 8 days, and so on until cards reach level 8
+- when cards reach level 8, it means you should be able to remember their content for ever
+- you can add new cards to level 1 regularly and apply the same principle: success = move card one level up, failure = move card back to level 1
+
+To get the most out of spaced repetition, 
+
 ## Be adventurous
 
 
