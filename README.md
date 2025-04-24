@@ -191,11 +191,16 @@ https://ncase.me/remember/
 - when cards reach level 8, it means you should be able to remember their content for ever
 - you can add new cards to level 1 regularly and apply the same principle: success = move card one level up, failure = move card back to level 1
 
-To get the most out of spaced repetition, 
+To get the most out of spaced repetition, you must make your cards:
+- small
+- connected
+- meaningful
+
+Nice tool: https://ankiweb.net
 
 ## Be adventurous
 
-
+Flash News: Monotony is bad for your brain. Try experiencing new things as often as possible.
 
 ---
 
