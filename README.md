@@ -202,6 +202,14 @@ Nice tool: https://ankiweb.net
 
 Flash News: Monotony is bad for your brain. Try experiencing new things as often as possible.
 
+## Have an endpoint
+
+Planning your finishing time is just as important as planning your working time.
+
+## Be bored
+
+
+
 ---
 
 # The Techniques
