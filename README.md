@@ -208,6 +208,7 @@ Planning your finishing time is just as important as planning your working time.
 
 ## Be bored
 
+When you're bored, your mind wanders, and you actually need that!
 Being bored allows that diffuse mode of thinking to happen. It allows us to think of creative solutions, to strengthen our neural connections.
 
 ## Section Review
