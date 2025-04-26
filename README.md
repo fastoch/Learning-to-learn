@@ -211,7 +211,8 @@ Planning your finishing time is just as important as planning your working time.
 When you're bored, your mind wanders, and you actually need that!  
 Being bored allows that diffuse mode of thinking to happen. It allows us to think of creative solutions, to strengthen our neural connections.  
 
-Boredom is both a warning that we're not doing what we want to be doing, and a push that motivates us to switch goals and projects.
+Boredom is both a warning that we're not doing what we want to be doing, and a push that motivates us to switch goals and projects.  
+https://www.youtube.com/watch?v=LKPwKFigF8U
 
 ## Section Review
 
