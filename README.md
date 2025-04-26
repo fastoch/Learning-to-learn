@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (55%)
+# Efficient Learning - ZTM Blueprint (59%)
 
 - The Principles
 - The 4 Pillars
@@ -80,7 +80,7 @@ It's about who uses time efficiently, who uses the right strategies to grow in t
 
 The most efficient way of learning is by going back and forth between these 2 modes.  
 Our brain needs us to focus then rest, focus then rest, ...  
-Avoid multitasking.
+Avoid multitasking, that doesn't work.
 
 ## The science of sleep
 
@@ -207,6 +207,10 @@ Flash News: Monotony is bad for your brain. Try experiencing new things as often
 Planning your finishing time is just as important as planning your working time.
 
 ## Be bored
+
+Being bored allows that diffuse mode of thinking to happen. It allows us to think of creative solutions, to strengthen our neural connections.
+
+## Section Review
 
 
 
