@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (59%)
+# Efficient Learning - ZTM Blueprint (62%)
 
 - The Principles
 - The 4 Pillars
@@ -214,11 +214,11 @@ Being bored allows that diffuse mode of thinking to happen. It allows us to thin
 Boredom is both a warning that we're not doing what we want to be doing, and a push that motivates us to switch goals and projects.  
 https://www.youtube.com/watch?v=LKPwKFigF8U
 
-## Section Review
-
-
-
 ---
 
 # The Techniques
+
+## The Pomodoro Technique
+
+
 
