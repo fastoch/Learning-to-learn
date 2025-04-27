@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (62%)
+# Efficient Learning - ZTM Blueprint (64%)
 
 - The Principles
 - The 4 Pillars
@@ -220,5 +220,11 @@ https://www.youtube.com/watch?v=LKPwKFigF8U
 
 ## The Pomodoro Technique
 
+**25 minutes ON, 5 minutes OFF**  
+
+- 25 minutes of focus mode, no interruption  
+- 5 minutes of diffuse mode
+
+## Chunk the subject
 
 
