@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (64%)
+# Efficient Learning - ZTM Blueprint (66%)
 
 - The Principles
 - The 4 Pillars
@@ -230,6 +230,8 @@ https://www.youtube.com/watch?v=LKPwKFigF8U
 Breaking down a complex subject into small pieces that are easy to understand or to tackle.  
 We can only hold 4 chunks of knowledge in our working memory, which is why it's hard to solve a big problem.  
 
-If you want to become a professional web developer, you need to divide and conquer.  
-Start by learning a few things about HTML, and make sure to store these concepts into your long term memory.  
+If you want to become a professional web developer, you need to learn the art of chunking.  
+
+## Spaced Repetition Revisited
+
 
