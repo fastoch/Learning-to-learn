@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (66%)
+# Efficient Learning - ZTM Blueprint (68%)
 
 - The Principles
 - The 4 Pillars
@@ -233,5 +233,7 @@ We can only hold 4 chunks of knowledge in our working memory, which is why it's 
 If you want to become a professional web developer, you need to learn the art of chunking.  
 
 ## Spaced Repetition Revisited
+
+## Deliberate Practice Revisited
 
 
