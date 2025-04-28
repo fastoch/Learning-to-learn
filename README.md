@@ -237,13 +237,15 @@ If you want to become a professional web developer, you need to learn the art of
 Because it's very important to apply this technique in order to become an efficient learner. 
 - Avoid cramming
 - Instead, learn in focus mode for 25 min then rest for 5 minutes
-- Try to recall what you've learnt the day after, then 2 days after that, then 4 days after that...
+- Try to recall what you've learnt the day after, then 2 days after that, then 4 days after that, and so on until it's engraved in your brain
 - Test yourself, or teach what you've learnt to an absolute beginner 
    
 ## Deliberate Practice Revisited
 
 Because it's very important to apply this technique in order to become an efficient learner.  
-
+- Do the things that are hard for you, push yourself
+- Allocate time for daily practice
+- 
 
 ## Create a Roadmap
 
