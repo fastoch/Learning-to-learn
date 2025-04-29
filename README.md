@@ -249,4 +249,6 @@ Because it's very important to apply this technique in order to become an effici
 
 ## Create a Roadmap
 
+You don't want to go straight into studying without a plan.  
+Mastering a subject is not simply learning things and interconnecting chunks of knowledge.  
 
