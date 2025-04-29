@@ -243,9 +243,9 @@ Because it's very important to apply this technique in order to become an effici
 ## Deliberate Practice Revisited
 
 Because it's very important to apply this technique in order to become an efficient learner.  
-- Do the things that are hard for you, push yourself
-- Allocate time for daily practice
-- 
+- Every single day, carve out a period of undistracted focus, applying the Pomodoro technique
+- During that focus period, push yourself to the edge of your ability
+- always seek immediate feedback
 
 ## Create a Roadmap
 
