@@ -253,7 +253,10 @@ You don't want to go straight into studying without a plan.
 Mastering a subject is not simply learning random chunks of knowledge.  
 You need to know which chunks to learn first and how the different pieces interconnect to form a consistent whole.  
 
-You want to know what path you need to take in order to get to where you want to be.  
+You want to know what path you need to take in order to get where you want to be.  
 
-
+- find out what you need to learn to reach your objective
+- make an ordered list of what you need to learn
+- disqualify outdated technologies/contents
+- pick up quality resources
 
