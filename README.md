@@ -253,5 +253,7 @@ You don't want to go straight into studying without a plan.
 Mastering a subject is not simply learning random chunks of knowledge.  
 You need to know which chunks to learn first and how the different pieces interconnect to form a consistent whole.  
 
+You want to know what path you need to take in order to get to where you want to be.  
+
 
 
