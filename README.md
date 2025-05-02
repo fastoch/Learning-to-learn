@@ -282,6 +282,23 @@ Integrative Complexity is this idea of willingness to accept multiple perspectiv
 
 Sometimes we need to **unlearn** in order to evolve.
 
+## The importance of community
+
+Engaging with a community of people interested in the same topics as you is the best way to become an efficient learner.  
+
+## Habits revisited
+
+- Habits are energy savers for our brain
+- They don't rely on will power, but on the satisfaction we get from them
+- A habit must be obvious to you, it has to have a good reason to be part of your daily routine
+- To form a new habit, it has to be as easy as possible
+- The outcome must be attractive enough so that you never question why you're doing this
+- A simple trick to form a new habit is to use a calendar and make sure you check each day, that you don't break the chain
+   - useful resource: https://dontbreakthechain.com/
+
+## System vs Goals
+
+
 
 
 ---
