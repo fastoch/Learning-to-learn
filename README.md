@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (68%)
+# Efficient Learning - ZTM Blueprint (72%)
 
 - The Principles
 - The 4 Pillars
@@ -253,10 +253,36 @@ You don't want to go straight into studying without a plan.
 Mastering a subject is not simply learning random chunks of knowledge.  
 You need to know which chunks to learn first and how the different pieces interconnect to form a consistent whole.  
 
-You want to know what path you need to take in order to get where you want to be.  
-
+You want to know what path you need to take in order to get where you want to be: 
 - find out what you need to learn to reach your objective
 - make an ordered list of what you need to learn
 - disqualify outdated technologies/contents
 - pick up quality resources
+- change the roadmap along the way if needed
 
+## Interleaving
+
+Interleaving is a very powerful concept. It is the reason as we age, we tend to become smarter.  
+We are able to interleave different experiences in our lives and all sorts of knowledge to connect different ideas. 
+- Learn from different sources
+- Use different methods of learning
+- Study related skills
+
+By varying the sources, the methods and the topics, the things you learn will stick.  
+https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/
+
+## The Einstellung Effect
+
+This is what qualifies a rigid mindset, where you're not open to new ideas, to suggesstions from beginners or from people you don't consider smart enough.  
+As we age, we need to remain curious, to keep studying the new technologies or new discoveries that are made over the years.  
+If we don't, we start getting this rigid mindset and we become less performant in our area of expertise.  
+
+To avoid getting hit by the Einstellung effect, we need to use something called "**Integrative Complexity**".  
+Integrative Complexity is this idea of willingness to accept multiple perspectives, wherever they come from.  
+
+Sometimes we need to **unlearn** in order to evolve.
+
+
+
+---
+EOF
