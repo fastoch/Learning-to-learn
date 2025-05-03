@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (77%)
+# Efficient Learning - ZTM Blueprint (79%)
 
 - The Principles
 - The 4 Pillars
@@ -297,6 +297,16 @@ Engaging with a community of people interested in the same topics as you is the 
    - useful resource: https://dontbreakthechain.com/
 
 ## System vs Goals
+
+Having goals is a prerequisite when it comes to efficient learning.  
+But goals are only good for short and simple tasks.  
+
+By having small systems in place instead of a big goal, we have more chance to succeed.  
+For example, "learning 1 hour a day" is easier to achieve than "learning how to code" or "building a full stack project".  
+
+Systems are what helps us fight against procrastination, by eventually becoming habits.  
+
+## The Power of the Senses
 
 
 
