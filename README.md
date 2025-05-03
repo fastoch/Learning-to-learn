@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (79%)
+# Efficient Learning - ZTM Blueprint (80%)
 
 - The Principles
 - The 4 Pillars
@@ -308,6 +308,13 @@ Systems are what helps us fight against procrastination, by eventually becoming 
 
 ## The Power of the Senses
 
+In order for us to recall a topic, it should be memorable, right?  
+We also need spaced repetition to store the things we learn in our long-term memory.  
+
+But how can improve on this by using our senses?  
+The way we can form really strong neural connections is by engaging as many senses as possible while learning.
+
+## Method of Loci
 
 
 
