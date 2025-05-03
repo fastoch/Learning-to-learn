@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (80%)
+# Efficient Learning - ZTM Blueprint (81%)
 
 - The Principles
 - The 4 Pillars
@@ -314,7 +314,7 @@ We also need spaced repetition to store the things we learn in our long-term mem
 But how can improve on this by using our senses?  
 The way we can form really strong neural connections is by engaging as many senses as possible while learning.
 
-## Method of Loci
+## Pareto principle revisited
 
 
 
