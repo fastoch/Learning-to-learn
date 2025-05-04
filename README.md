@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (81%)
+# Efficient Learning - ZTM Blueprint (84%)
 
 - The Principles
 - The 4 Pillars
@@ -315,6 +315,16 @@ But how can improve on this by using our senses?
 The way we can form really strong neural connections is by engaging as many senses as possible while learning.
 
 ## Pareto principle revisited
+
+Select what to learn and remove all that is superfluous.  
+A lot of learners don't succeed because they try to do everything, instead of focusing on what truly matters.  
+
+Find the top-tier quality content that will make you ready for the job.  
+
+## Deep work
+
+
+
 
 
 
