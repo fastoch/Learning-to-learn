@@ -321,8 +321,6 @@ A lot of learners don't succeed because they try to do everything, instead of fo
 
 Find the top-tier quality content that will make you ready for the job.  
 
-## Concepts vs Facts
-
 
 
 
