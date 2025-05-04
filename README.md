@@ -1,4 +1,4 @@
-# Efficient Learning - ZTM Blueprint (84%)
+# Efficient Learning - ZTM Blueprint 
 
 - The Principles
 - The 4 Pillars
@@ -321,9 +321,7 @@ A lot of learners don't succeed because they try to do everything, instead of fo
 
 Find the top-tier quality content that will make you ready for the job.  
 
-## Deep work
-
-Deep work is a period of uninterrupted intense focus.  
+## Concepts vs Facts
 
 
 
