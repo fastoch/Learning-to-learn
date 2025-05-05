@@ -321,6 +321,10 @@ A lot of learners don't succeed because they try to do everything, instead of fo
 
 Find the top-tier quality content that will make you ready for the job.  
 
+## Test yourself
+
+It's important to self-evaluate on a regular basis, both for benefiting from recollection and for knowing where you're at.  
+Practising and recalling are what makes things you learn stick, that's how you engrave them into your long-term memory.  
 
 
 
